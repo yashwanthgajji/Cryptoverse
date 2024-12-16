@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react'
-import HTMLReactParser from 'html-react-parser/lib/index'
+import React, { useState } from 'react'
 import { useParams } from 'react-router-dom'
 import millify from 'millify'
 import { Col, Row, Typography, Select } from 'antd'
